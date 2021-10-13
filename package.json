@@ -1,0 +1,25 @@
+{
+  "name": "carparking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayeshk-star/Carparking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayeshk-star/Carparking/issues"
+  },
+  "homepage": "https://github.com/jayeshk-star/Carparking#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13"
+  }
+}
